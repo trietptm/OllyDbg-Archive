@@ -1,0 +1,7 @@
+[Colours]
+Scheme[4]=10,14,16,0,5,13,3,10
+Scheme name[4]=Black theme
+[Syntax]
+Commands[4]=7,15,12,14,15,14,15,15,111,12,9,0,0,0
+Operands[4]=1,7,15,15,2,3,6,6,0,0,0,0,0,0
+Scheme name[4]=Black theme

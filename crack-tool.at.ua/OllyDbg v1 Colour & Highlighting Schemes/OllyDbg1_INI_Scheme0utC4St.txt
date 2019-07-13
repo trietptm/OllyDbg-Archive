@@ -1,0 +1,7 @@
+[Colours]
+Scheme[6]=15,12,7,0,8,11,11,13
+Scheme name[6]=RCE
+[Syntax]
+Commands[3]=2,9,10,10,5,9,9,8,112,22,105,0,0,0
+Operands[3]=1,12,14,3,7,15,10,3,0,0,0,0,0,0
+Scheme name[3]=RCE

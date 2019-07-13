@@ -1,0 +1,13 @@
+[Colours]
+Scheme[7]=15,12,7,0,1,9,7,13
+Scheme name[7]=JC
+
+[Fonts]
+Font[7]=-24,0,400,0,0,0,0,1,49,0
+Face name[7]=Courier New
+Font name[7]=JC
+
+[Syntax]
+Commands[4]=31,13,112,80,11,64,64,14,96,2,12,10,10,10
+Operands[4]=1,15,13,14,7,7,10,14,0,0,0,0,0,0
+Scheme name[4]=JC JnC
