@@ -1,0 +1,17 @@
+[Colour schemes]
+Scheme name[6]=m4n0w4r
+Foreground_1[6]=FF00,FFFF,FF00,0,F0FBFF,FF00FF,F0FBFF,F0FBFF,FFFFFF,FF00,*,*,*,*,*,*
+Foreground_2[6]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Background_1[6]=0,0,0,FF,3939FF,C57941,EB9CAE,C57941,0,800080,*,*,*,*,*,*
+Background_2[6]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Operands[6]=0
+Modified commands[6]=0
+
+[Highlighting schemes]
+Scheme name[6]=m4n0w4r
+Foreground_1[6]=*,*,*,*,*,*,*,*,*,*,*,*,FF00,FFFF,FF,FF00
+Foreground_2[6]=FF00FF,FF,FFFF00,0,8000,FFFF,*,*,C0DCC0,0,0,FF00,FFFF,FF,FFFF,*
+Background_1[6]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Background_2[6]=*,*,*,FFFFFF,*,FF,*,*,*,*,*,*,*,*,*,*
+Operands[6]=0
+Modified commands[6]=1

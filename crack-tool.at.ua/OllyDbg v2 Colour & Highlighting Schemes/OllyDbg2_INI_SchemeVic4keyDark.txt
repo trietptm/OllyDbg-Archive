@@ -1,0 +1,17 @@
+[Colour schemes]
+Scheme name[6]=vic4key dark
+Foreground_1[6]=FF00,FF00,FFFF00,0,*,8000,*,*,FF00,*,*,*,*,*,*,*
+Foreground_2[6]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Background_1[6]=0,0,0,FF00,*,0,808080,*,FF,800000,*,*,*,*,*,*
+Background_2[6]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Operands[6]=0
+Modified commands[6]=0
+
+[Highlighting schemes]
+Scheme name[6]=vic4key dark
+Foreground_1[6]=*,*,*,*,*,*,*,*,*,*,*,*,FFFF00,FFFF,FFFF,FF00FF
+Foreground_2[6]=FFFF,FF,FFFF00,FF,FF,FF,*,*,FFFFFF,800000,808080,FFFF00,FFFFFF,FFFF,FF,*
+Background_1[6]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Background_2[6]=*,*,*,*,*,FFFF,*,*,*,*,*,*,*,*,*,*
+Operands[6]=1
+Modified commands[6]=1

@@ -1,0 +1,17 @@
+[Colour schemes]
+Scheme name[6]=Blackboard
+Foreground_1[6]=F0F0F0,F0FBFF,AFAFAF,404FF,F0FBFF,F0FBFF,F0FBFF,F0FBFF,FFFFFF,F0FBFF,*,*,*,*,*,*
+Foreground_2[6]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Background_1[6]=21100C,21100C,21100C,21100C,3939FF,C57941,EB9CAE,C57941,21100C,43322D,*,*,*,*,*,*
+Background_2[6]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Operands[6]=0
+Modified commands[6]=0
+
+[Highlighting schemes]
+Scheme name[6]=Blackboard
+Foreground_1[6]=*,*,*,*,*,*,*,*,*,*,*,*,FFF,3939FF,3939FF,FFFF
+Foreground_2[6]=3939FF,3939FF,*,*,*,*,*,*,C57941,C57941,*,8BE0AB,30B261,8BE0AB,30B261,*
+Background_1[6]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Background_2[6]=*,*,*,3939FF,*,*,*,*,*,*,*,*,*,*,*,*
+Operands[6]=1
+Modified commands[6]=1

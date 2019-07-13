@@ -1,0 +1,32 @@
+[Colour schemes]
+Scheme name[0]=Other
+Foreground_1[0]=FF00,FF00,FFFF00,0,*,8000,FFFF00,*,FF00,*,*,*,*,*,*,*
+Foreground_2[0]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Background_1[0]=0,0,0,FF00,*,0,808080,*,FF,800000,*,*,*,*,*,*
+Background_2[0]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+
+[Fonts]
+Font name[0]=OEM fixed font
+Font data[0]=0,0,0,0,0,0,0,0,0,0,0,10
+Face name[0]=
+Font name[1]=Terminal 6
+Font data[1]=9,6,700,0,0,0,255,0,1,1,0,0
+Face name[1]=Terminal
+Font name[2]=System fixed font
+Font data[2]=0,0,0,0,0,0,0,0,0,0,0,16
+Face name[2]=
+Font name[3]=Courier (UNICODE)
+Font data[3]=14,0,400,0,0,0,1,2,5,-2,0,0
+Face name[3]=Courier New
+Font name[4]=Lucida (UNICODE)
+Font data[4]=10,6,400,0,0,0,1,2,5,0,0,0
+Face name[4]=Lucida Console
+Font name[5]=LiSong'sFont
+Font data[5]=-16,0,400,0,0,0,134,1,49,0,0,0
+Face name[5]=Fixedsys
+Font name[6]=Font 6
+Font data[6]=0,0,0,0,0,0,0,0,0,0,0,16
+Face name[6]=
+Font name[7]=vic4key
+Font data[7]=-16,0,400,0,0,0,0,1,49,-2,0,0
+Face name[7]=Courier

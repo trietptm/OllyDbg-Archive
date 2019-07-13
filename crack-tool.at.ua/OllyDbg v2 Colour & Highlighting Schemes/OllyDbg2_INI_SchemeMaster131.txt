@@ -1,0 +1,5 @@
+Scheme name[1]=Christmas tree
+Foreground_1[1]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Foreground_2[1]=*,*,*,FFFFFFFF,*,*,*,*,*,*,*,*,800000,*,FFFFFFFF,*
+Background_1[1]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Background_2[1]=FFFF00,FFFF00,*,*,*,*,*,*,*,*,*,*,FFFF00,*,FFFFFF,*

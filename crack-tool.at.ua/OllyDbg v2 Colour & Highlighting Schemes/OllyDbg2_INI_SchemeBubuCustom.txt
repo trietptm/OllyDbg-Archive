@@ -1,0 +1,17 @@
+[Colour schemes]
+Scheme name[3]=Mostly black
+Foreground_1[3]=A4A0A0,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Foreground_2[3]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Background_1[3]=*,*,*,FF,*,*,*,*,*,FF0000,*,*,*,*,*,*
+Background_2[3]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Operands[3]=0
+Modified commands[3]=0
+
+[Highlighting schemes]
+Scheme name[4]=BubuCustom
+Foreground_1[4]=*,*,*,*,*,*,*,*,*,*,*,*,C0C0C0,FFFF,FFFF,FF0000
+Foreground_2[4]=FFFF,FF0000,*,*,FF00,*,*,*,800080,*,*,8080,*,*,*,*
+Background_1[4]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Background_2[4]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Operands[4]=1
+Modified commands[4]=1

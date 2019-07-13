@@ -1,0 +1,22 @@
+[Colour schemes]
+Scheme name[0]=Black on white
+Foreground_1[0]=800000,*,808000,*,*,*,*,*,*,*,*,*,*,*,*,*
+Foreground_2[0]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Background_1[0]=*,*,*,*,*,*,*,*,*,FFFF,*,*,*,*,*,*
+Background_2[0]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Operands[0]=0
+Modified commands[0]=0
+
+[Highlighting schemes]
+Scheme name[1]=Christmas tree
+Foreground_1[1]=*,*,*,*,*,*,*,*,*,*,*,*,0,FF,*,0
+Foreground_2[1]=0,FF,*,*,*,FF,*,*,0,*,*,*,*,*,*,*
+Background_1[1]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Background_2[1]=FFFF00,FF00,*,*,*,FFFFFFFF,*,*,*,*,*,FFFFFFFF,FFFFFFFF,FFFFFFFF,FFFFFFFF,*
+Operands[1]=1
+Modified commands[1]=1
+
+[Fonts]
+Font name[2]=System fixed font
+Font data[2]=0,0,0,0,0,0,0,0,0,0,0,16
+Face name[2]=

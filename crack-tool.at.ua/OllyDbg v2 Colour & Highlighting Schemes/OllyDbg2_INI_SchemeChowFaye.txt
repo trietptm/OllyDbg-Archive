@@ -1,0 +1,22 @@
+[Colour schemes]
+Scheme name[7]=ChowFaye.Com
+Foreground_1[7]=FF00,*,FF00,FF00,*,*,*,FF00,*,*,*,*,*,*,*,*
+Foreground_2[7]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Background_1[7]=*,*,*,FF,*,*,*,*,*,*,*,*,*,*,*,*
+Background_2[7]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Operands[7]=0
+Modified commands[7]=0
+
+[Highlighting schemes]
+Scheme name[7]=ChowFaye.Com
+Foreground_1[7]=*,*,*,*,*,*,*,*,*,*,*,*,FF00,FF,FF00FF,FFFF00
+Foreground_2[7]=FF,FFFFFF,FF,FF,FF,FF,*,*,FF00FF,FF,FF0000,80FF,FFFF,FFFF00,*,*
+Background_1[7]=*,*,*,*,*,*,*,*,*,*,*,*,*,FFFF,FFFF,*
+Background_2[7]=FF00,FF,*,FFFF,FFFFFF,FFFFFF,*,*,*,*,*,*,*,*,*,*
+Operands[7]=1
+Modified commands[7]=1
+
+[Fonts]
+Font name[7]=ChowFaye.Com
+Font data[7]=-14,0,400,0,0,0,134,1,49,1,1,0
+Face name[7]=Fixedsys

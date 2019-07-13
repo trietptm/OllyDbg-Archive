@@ -1,0 +1,24 @@
+[Colour schemes]
+Scheme name[*]=Instructions-Status-Dump Xyl
+Foreground_1[*]=*,FFFFFF,0,C0C0C0,800000,*,*,FFFFFF,800000,C0C0C0,*,*,*,*,*,*
+Foreground_2[*]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Background_1[*]=C0C0C0,C0C0C0,C0C0C0,*,FFFFFF,*,*,*,*,808080,*,*,*,*,*,*
+Background_2[*]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Operands[*]=0
+Modified commands[*]=0
+Scheme name[*]=Registers-Stack Xyl
+Foreground_1[*]=C0C0C0,FFFF,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Foreground_2[*]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Background_1[*]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Background_2[*]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Operands[*]=0
+Modified commands[*]=0
+
+[Highlighting schemes]
+Scheme name[*]=Code Highlight Xyl
+Foreground_1[*]=*,*,*,*,*,*,*,*,*,*,*,*,0,0,FF,0
+Foreground_2[*]=0,0,0,*,800000,0,*,*,0,*,*,0,0,0,0,*
+Background_1[*]=*,*,*,*,*,*,*,*,*,*,*,*,*,FFFF,FFFF,*
+Background_2[*]=FFFF00,FF00,*,FF,*,*,*,*,*,*,*,*,*,*,*,*
+Operands[*]=1
+Modified commands[*]=1

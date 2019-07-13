@@ -1,0 +1,22 @@
+[Colour schemes]
+Scheme name[4]=KuNgBiM's Scheme
+Foreground_1[4]=*,*,808000,0,FFFF,80,*,FF00,*,FF0000,*,*,*,*,*,*
+Foreground_2[4]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Background_1[4]=C0DCC0,C0DCC0,C0DCC0,FF00,*,FFFF00,*,*,C0DCC0,FFFF,*,*,*,*,*,*
+Background_2[4]=*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+Operands[4]=0
+Modified commands[4]=0
+
+[Highlighting schemes]
+Scheme name[4]=KuNgBiM's Code
+Foreground_1[4]=*,*,*,*,*,*,*,*,*,*,*,*,FF0000,FF,FF,FF0000
+Foreground_2[4]=0,0,0,FF00,FF,FF,*,*,800000,0,0,800080,FF00FF,80,FF00FF,*
+Background_1[4]=*,*,*,*,*,*,*,*,*,*,*,*,*,FFFF,FFFF,*
+Background_2[4]=FFFF00,FF00,*,FF,*,*,*,*,*,*,*,*,*,*,*,*
+Operands[4]=1
+Modified commands[4]=0
+
+[Fonts]
+Font name[5]=KuNgBiM's Fonts
+Font data[5]=-12,0,400,0,0,0,134,1,49,0,0,0
+Face name[5]=#65B0#5B8B#4F53
