@@ -1,6 +1,8 @@
 
 ## LINKS:
 * https://www.irantk.ir/software/AoRE-DBG.zip
+  * https://www.at4re.net/f/thread-754.html
+    * https://www9.zippyshare.com/v/NdCxRPqT/file.html
 * http://www.aoreteam.com/vb/showthread.php?t=10679
   * This version is modified from Mr.eXoDia
   * Changes have been made to this version with additions to Plugins
