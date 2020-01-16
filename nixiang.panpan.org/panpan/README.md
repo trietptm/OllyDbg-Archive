@@ -11,5 +11,7 @@
 * 各语言按钮事件.rar: https://545c.com/file/4000752-416513877
   * Button events for each language - separated by Eugenio debugger installation
   * https://nixiang.panpan.org/thread-6760-1-1.html
+* OD VMP3.X plugin: https://panpan8848.ctfile.com/fs/4000752-315702948
+  * https://nixiang.panpan.org/thread-5102-1-1.html
 * 
 
