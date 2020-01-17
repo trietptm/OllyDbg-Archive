@@ -3,8 +3,9 @@
 * Xjun'sDbg Xjun'sDbg.rar: https://panpan8848.ctfile.com/fs/4000752-374769274
   * Xiaojun OD-Xjun's Dbg-Xjun OD
   * https://nixiang.panpan.org/thread-5394-1-1.html
-* https://545c.com/file/4000752-416513643
+* Eugenio调试器完美优化版.rar: https://545c.com/file/4000752-416513643
   * Eugenio debugger perfect optimized version (including button events and shelling scripts) - optimized version OD
+  * https://nixiang.panpan.org/thread-6759-1-1.html
 * 残影版OllyICE.exe: https://545c.com/file/4000752-401818431
   * https://nixiang.panpan.org/thread-6315-1-1.html
 * 砺剑专用Ollydbg.zip: https://panpan8848.ctfile.com/fs/4000752-234092083
