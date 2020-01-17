@@ -7,6 +7,9 @@
   * Eugenio debugger perfect optimized version (including button events and shelling scripts) - optimized version OD
 * 残影版OllyICE.exe: https://545c.com/file/4000752-401818431
   * https://nixiang.panpan.org/thread-6315-1-1.html
+* 砺剑专用Ollydbg.zip: https://panpan8848.ctfile.com/fs/4000752-234092083
+  * 砺剑专用Ollydbg-砺剑专用OD
+  * https://nixiang.panpan.org/thread-4643-1-1.html
 * 7777OD.zip: https://panpan8848.ctfile.com/fs/4000752-300404418
   * https://nixiang.panpan.org/thread-4990-1-1.html
 * 吾爱破解专用版Ollydbg.rar: https://panpan8848.ctfile.com/fs/4000752-290917326
